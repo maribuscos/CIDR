@@ -6,4 +6,5 @@ bash CIDR ident
 - Ping discovered IP address(es)
 - Identify IP address(es) of the specified domain
 
-- Usage "<name of the script> <domain>"
+- Usage CIDR.sh domain
+  -follow instructions
